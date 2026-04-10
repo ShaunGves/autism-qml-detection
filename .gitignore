@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+env/
+.env/
+
+# Dataset (too large for GitHub)
+dataset/
+
+# Saved quantum outputs (regenerated on run)
+quanvolution/*.npy
+
+# Keep plots in quanvolution/ tracked
+!quanvolution/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
