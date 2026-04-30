@@ -45,7 +45,7 @@ autism-qml-detection/
 
 Download from Kaggle: [Autism Image Dataset](https://www.kaggle.com/datasets/cihan063/autism-image-data)
 
-After downloading, organize it like this:
+After downloading, organize it like this:-
 ```
 dataset/
 └── consolidated/
