@@ -108,7 +108,7 @@ Edit the top of `autism_detection.py` to change these:
 
 ---
 
-## 📈 Results
+## 📈 Result
 
 After training, two plots are saved in `quanvolution/`:
 - `feature_maps.png` — quantum feature maps vs original input
