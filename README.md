@@ -4,7 +4,7 @@ A hybrid **Quantum-Classical** model that detects autism from facial images usin
 
 ---
 
-## 🔬 How It Works
+## 🔬 How It Functions
 
 ```
 Face Image (28×28 grayscale)
