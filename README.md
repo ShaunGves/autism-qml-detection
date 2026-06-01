@@ -1,6 +1,6 @@
 # 🧠 Autism Detection using Quantum Machine Learning
 
-A hybrid **Quantum-Classical** model that detects autism from facial images using a **Quanvolution** layer (PennyLane) followed by a classical dense neural network (TensorFlow/Keras).
+A hybrid **Quantum-Classical** model that detects autism from facial images using a **Quavolution** layer (PennyLane) followed by a classical dense neural network (TensorFlow/Keras).
 
 ---
 
